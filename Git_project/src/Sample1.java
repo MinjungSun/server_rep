@@ -4,5 +4,6 @@ public class Sample1 {
 		System.out.println("Hello, This is MJ");
 		System.out.println("Where Can I buy a cup of coffee?");
 		System.out.println("You should go to Coffee shop nearby.");
+		System.out.println("But,,,I don't have enough money..... Will you buy for me?");
 	}//main
 }//end class
