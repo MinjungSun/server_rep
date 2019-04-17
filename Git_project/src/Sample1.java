@@ -7,5 +7,6 @@ public class Sample1 {
 		System.out.println("But,,,I don't have enough money..... Will you buy for me?");
 		
 		System.out.println("Summer has come~ : Minjung...");
+		System.out.println("Temprature is very warm.. ");
 	}//main
 }//end class
